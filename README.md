@@ -100,4 +100,4 @@ Executive-ready visualization design
 Below are the three dashboard pages included in this project:
 ![Turnover Analysis](./Dashboard-pg1.png)
 ![Compensation Overview](./Dashboard-pg2.png)
-![Performance Analysis](./Dashboard-pg1.png)
+![Performance Analysis](./Dashboard-pg3.png)
